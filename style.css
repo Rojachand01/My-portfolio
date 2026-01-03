@@ -8,8 +8,10 @@ html{
     scroll-behavior: smooth;
 }
 body{
-    background:#080808;
-    color: #fff;
+    background:#0f172a;
+    color:#e5e7eb;
+}
+
 }
 nav .checkbox {
     display: none;
@@ -344,4 +346,5 @@ nav.ri{
     display: block;
 }
   
+
   
